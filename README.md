@@ -33,3 +33,5 @@ I built a full-cycle data system that moves from **Raw Data** to **Business Acti
 * **Relational Database Design:** Engineered a 4-table schema (Sales, Products, Customers, Categories) with full referential integrity.
 * **The "Whale" Report:** Identified top-tier customers by joining multi-table data to calculate lifetime spend.
 * **Proactive Automation:** Built a background monitoring loop that alerts management when high-velocity products need reordering.
+
+  ![Top Sellers Chart](top_sellers.png)
