@@ -18,3 +18,18 @@ Developed a relational database to track sales performance, identify high-value 
 * **Language:** Python 3.12
 * **Database:** SQLite3
 * **Libraries:** Pandas (ETL), Matplotlib (Data Viz)
+
+# 🛒 E-Commerce Analytics & Automation Pipeline
+
+## 📌 Project Overview
+I built a full-cycle data system that moves from **Raw Data** to **Business Action**. This project manages a retail database, performs deep-dive sales analysis, and includes an automated monitoring system to prevent stockouts.
+
+## 🛠️ Tech Stack
+* **Database:** SQLite (Relational Schema Design)
+* **Language:** Python (Data Orchestration)
+* **Libraries:** Pandas (Analysis), Matplotlib (Visualization)
+
+## 💡 Key Features
+* **Relational Database Design:** Engineered a 4-table schema (Sales, Products, Customers, Categories) with full referential integrity.
+* **The "Whale" Report:** Identified top-tier customers by joining multi-table data to calculate lifetime spend.
+* **Proactive Automation:** Built a background monitoring loop that alerts management when high-velocity products need reordering.
