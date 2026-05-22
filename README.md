@@ -1,6 +1,3 @@
-# E-Commerce-Relational-Analytics
-Developed a relational database to track sales performance, identify high-value "whale" customers, and visualize revenue trends.
-
 # 🛒 E-Commerce Intelligence Pipeline
 **Project Overview:** A Python-based analytics engine that transforms raw transactional data into actionable business insights using a relational SQLite database.
 
