@@ -32,3 +32,6 @@ I built a full-cycle data system that moves from **Raw Data** to **Business Acti
 * **Proactive Automation:** Built a background monitoring loop that alerts management when high-velocity products need reordering.
 
   ![Top Sellers Chart](top_sellers.png)
+
+  <img width="1200" height="500" alt="revenue_trends" src="https://github.com/user-attachments/assets/2ad21f53-c414-40a5-bc43-6ff5a2706c79" />
+
